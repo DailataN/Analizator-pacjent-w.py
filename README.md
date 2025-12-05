@@ -1,0 +1,2 @@
+# Analizator-pacjent-w.py
+
